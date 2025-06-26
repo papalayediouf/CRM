@@ -1,4 +1,3 @@
-//src/app/page.tsx
 import Connexion from "./authentification/connexion/Connexion";
 
 export default function Home() {

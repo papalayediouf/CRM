@@ -11,12 +11,8 @@ const menu = [
   { label: 'Clients', href: '/clients', icon: <FiUsers /> },
   { label: 'Ajouter un client', href: '/ajout-client', icon: <IoIosPersonAdd /> },
 ]
-
-
 export default function SideBar() {
   const pathname = usePathname()
-
-
   return (
     <>
       

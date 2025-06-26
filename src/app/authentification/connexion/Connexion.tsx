@@ -14,8 +14,8 @@ export default function Connexion() {
   }
 
   return (
-    <div className="  flex items-center justify-center ">
-      <div className="w-full max-w-md bg-white rounded-xl shadow-xl overflow-hidden">
+    <div className=" flex items-center justify-center bg-gray-50  px-4">
+      <div className="w-full max-w-md bg-white p-2 rounded-xl shadow-xl ">
         <div className="bg-[#093545] px-6 py-4">
           <h2 className="text-2xl font-bold text-white text-center">Connexion</h2>
         </div>

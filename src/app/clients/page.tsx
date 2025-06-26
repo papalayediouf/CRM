@@ -5,9 +5,6 @@ import ListeClients from './ListeClients'
 import { clients as staticClients } from '../db/clientDb'
 import { Client } from '../types/clients' 
 
-
-
-
 export default function PageClients() {
   const [clientList, setClientList] = useState<Client[]>([])
 

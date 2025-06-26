@@ -4,7 +4,7 @@ import Connexion from './Connexion'
 
 export default function page() {
   return (
-    <div>
+    <div className=''>
       <Connexion/>
     </div>
   )
